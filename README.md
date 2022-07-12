@@ -33,8 +33,11 @@ is responsible for running tests to make sure the data is inserted correctly in 
 
 As you can see in the sparkifydb_erd.png file, we have 5 different tables following a star schema with one fact table and four dimensions tables.
 
-Fact table: Songplays > songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
-Dimenstions tables:
+## Fact table:
+
+###Songplays > songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
+
+##Dimenstions tables:
 
 ### users > user_id, first, and last names, gender, and level.
 ### songs > song_id, title, artist, year, and duration.
