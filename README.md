@@ -35,7 +35,7 @@ As you can see in the sparkifydb_erd.png file, we have 5 different tables follow
 
 ## Fact table:
 
-###Songplays > songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
+### Songplays > songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
 
 ##Dimenstions tables:
 
